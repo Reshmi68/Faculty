@@ -1,0 +1,39 @@
+
+
+
+[
+    {
+        "name": "Dr.Meeravali Shaikh",
+        "Qualification": "B.Tech(CSE),M.Tech(CSE),Ph.d(CSE)",
+        "post": "HOD",
+        "experience":"13 Years"
+    },
+    {
+        "name": "Dr.P.Rambabu",
+        "Qualification": "B.Tech(Civil),M.Tech(Remote Sensing),Ph.d(Remote Sensing)",
+        "post": "Professor",
+        "experience":"20 Years(industry), 13 Years(Teaching)"
+        
+    },
+    {
+        
+        "name": "Dr.M.Narayanan",
+        "Qualification": "B.E(CSE),M.E(CSE),Ph.d(CSE)",
+        "post": "Professor",
+        "experience":"17 Years"
+    },
+    {
+        
+        "name": "Dr.M.Ravikanth",
+        "Qualification": "B.Tech(CSE),M.Tech(CSE),Ph.d(CSE)",
+        "post": "Associate Professor",
+        "experience":"17 Years"
+    },
+    {
+        
+        "name": "Dr.P.Aurchana",
+        "Qualification": "MCA,M.Tech(CSE),Ph.d(CSE)",
+        "post": "Associate Professor",
+        "experience":"7 Years(Teaching),4 Years(Full Ph.D)"
+    }
+]
